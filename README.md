@@ -24,4 +24,3 @@ check the ingredients required first before cooking the dish! Well, who knows if
 
 
 
-I legit have no idea why am I presenting a fried rice recipe in visual studio code
